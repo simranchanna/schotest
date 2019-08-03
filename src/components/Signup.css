@@ -1,0 +1,41 @@
+.top-bar{
+    padding: 10px;
+    align-content: right;
+    margin-right: 30px;
+    font-style: italic;
+    font-weight: bold;
+}  
+.location{
+    text-align: right;
+    margin-right: 30px;
+    border-radius: 10px;
+    font-style: italic;
+    font-weight: bold; 
+}
+.sign-up{
+    padding: 3px;
+    color: #fff;
+}
+.modals{
+    text-align: center;
+    border-radius: 20px;
+}
+.modal-signup{
+    color: #454851;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+}
+.logo-modal{
+    height: 200px;
+    width: 200px;
+    margin-top: 0;
+}
+.modal-btns{
+    background-color: #002147;
+    border-radius: 1.4rem;
+    font-weight: bold;
+}
+.modal-btns:hover{
+    background-color: #ffc107;
+    color: #002147;
+}

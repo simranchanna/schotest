@@ -1,0 +1,38 @@
+.top{
+    padding-left: 30%;
+    background-color: #002147;
+}
+#header{
+    background-color: gray;
+}
+.logo-circles{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    margin-right: 50px;
+    position: relative;
+    bottom: 40px;
+}
+#team-top{
+    text-align: center;
+}
+.team-row{
+    margin-left: 10%;
+}
+.team-img{
+    width: 135px;
+    height: 135px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 10px;
+}
+#support-team{
+    text-align: center;
+}
+.name{
+    font-size: 20px;
+    font-weight: bold;
+}
+.team-heading{
+    margin: 5% 0 5% 0;
+    font-family: 'Courier New', Monospace;
+}

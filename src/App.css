@@ -1,0 +1,46 @@
+.navv{
+    padding-left: 30%;
+    background-color: #002147; 
+}
+#founder{
+    margin: 5% 20% 5% 20%;
+}
+.founder-hd{
+    font-size: 2rem;
+    color: #002147;
+}
+.founder-name{
+    text-align: right;
+    font-size: 20px;
+}
+.founder-img{
+    margin-top: 30px;
+    margin-left: 30px; 
+    height: 200px;
+    width: 300px;
+}
+.bde{
+    background-color: #fdc800;
+    color: #002147;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.associates{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #454851;
+    text-align: left;
+    padding-right: 1rem;
+}
+.associ{
+    margin: 5% 0 5% 0;
+}
+.asso-img{
+    text-align: center;
+    height: 60px;
+    width: 150px;
+
+}

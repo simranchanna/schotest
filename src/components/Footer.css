@@ -1,0 +1,59 @@
+.footer-top{
+    background-color: #001a39;
+    color: #fff;
+    text-align: center;
+    width: 50%;
+    border-radius: 40px;
+    margin-left: 25%;
+    padding: 20px;
+    position: relative;
+    top: 50px;
+}
+.top-heading{
+    color: #fdc800;
+    font-size: 2em;
+    font-family: Arial, sans-serif;
+}
+.top-icon{
+    color: #fdc800;
+    font-size: 30px;
+}
+.footer-down{
+    padding-left: 20px;
+    background-color: #1d2331;
+    text-align: left;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+.heading{
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+p{
+    font-size: 0.8rem;
+}
+.list-icon{
+    color: #fdc800;
+}
+a{
+    color: #fff;
+    font-size: 0.8rem;
+}
+a:hover{
+    color: #fff;
+}
+.email-submit{
+    border-radius: 2.5rem;
+    line-height: 1.5;
+}
+.email-btn{
+    background-color: #fdc800;
+    color: #1d2331;
+    border-radius: 2.5rem;
+    line-height: 1.5;
+}
+.social-links{
+    color: #fdc800;
+    font-size: 40px;
+    padding: 0 15px 15px 15px;
+}
